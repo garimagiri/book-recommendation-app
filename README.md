@@ -1,2 +1,4 @@
 # book-recommendation-app
-Created with CodeSandbox
+Created using react.
+
+try it. https://dl2f0q.csb.app/
